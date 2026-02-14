@@ -2,7 +2,7 @@
 // AU IXL - Standalone Version (GitHub-hosted)
 // Fully standalone. No Vercel deployment needed.
 // Calls free AI APIs directly, bypassing IXL CSP via hidden iframe.
-// Load via bookmarklet: javascript:void(fetch('https://raw.githubusercontent.com/YOU/REPO/main/ixl-standalone.js').then(r=>r.text()).then(eval))
+// Load via bookmarklet: javascript:void(fetch('https://raw.githubusercontent.com/dragonbox102/Birthday-countdown/refs/heads/main/i3').then(r=>r.text()).then(eval))
 // ============================================================
 (function () {
   "use strict";
